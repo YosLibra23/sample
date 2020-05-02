@@ -1,3 +1,15 @@
 .title {
   color: #02ccba;
+  background-color: blue;
+}
+
+.top {
+    position: relative;
+}
+
+h1 {
+    position: absolute;
+}
+.top-png {
+    position: absolute;
 }
